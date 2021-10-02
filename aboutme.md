@@ -1,15 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Anshraj Shrivastava.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am currently working as a Software Engineer at Paytm.
+-  I've Completed my Btech Graduation in Computer Science and Engineering @Jaypee University of Engineering and Technology.
+-  I’m currently learning Data Structures, Competitive Programming, MLOps, RedHat Enterprise Linux 8, Docker-CE, SpringBoot, Kotlin.
+-  I’m looking for good job opportunities for my future.
+-  Ask me about Data Structures, Competitive Programming, MLOps, RHEL8, Docker and stuffs like
+-  c cpp python mysql html5 css3 redhat mlops docker kotlin spring java
 
-What else do you need?
 
 ### My story
 
