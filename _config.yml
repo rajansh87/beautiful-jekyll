@@ -16,9 +16,19 @@ author: Anshraj Shrivastava
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - LinkedIn: "https://www.linkedin.com/in/ansh-raj/"
+    - Github: "https://github.com/rajansh87"
+    - CodeChef: "https://www.codechef.com/users/rajansh87"
+    - Hackerrank: "https://www.hackerrank.com/rajansh87"
+    - InterviewBit: "https://www.interviewbit.com/profile/rajansh87"
+    - StopStalk : "https://www.stopstalk.com/user/profile/rajansh87"
+    - Medium: "https://medium.com/@rajansh87"
+    - Email: "rajansh87@gmail.com"
+  
+    
+    
+    
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -43,16 +53,18 @@ social-network-links:
   facebook: Anshraj
   github: rajansh87
   LinkedIn: Anshraj Shrivastava
-  medium: rajansh87
   CodeChef: rajansh87
-  InterviewBit: rajansh87
   Hackerrank: rajansh87
+  InterviewBit: rajansh87
+  StopStalk: rajansh87
+  medium: rajansh87
+  instagram: ishu.shriv
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: ishu.shriv
+  
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -81,6 +93,7 @@ share-links-active:
   InterviewBit: true
   Hackerrank: true
   instagram: true
+  StopStalk: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -199,7 +212,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "India/New Delhi"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
